@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_nodejs_1692193192685-pr-trigger-input-set
+  identifier: Build_nodejs_1692193192685prtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: default_project
+  pipeline:
+    identifier: Build_nodejs_1692193192685
+    properties:
+      ci:
+        codebase:
+          build:
+            type: PR
+            spec:
+              number: <+trigger.prNumber>
