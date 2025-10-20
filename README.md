@@ -44,10 +44,3 @@ We welcome contributions! Follow these steps:
 
 ## 📝 License
 This project is licensed under the **MIT License**.
-
----
-
-Happy coding! 🎉
-```
-
-Let me know if you need refinements or want additional sections like troubleshooting or FAQs. 🚀
