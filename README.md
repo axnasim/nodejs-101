@@ -1,4 +1,4 @@
-Great! Here's a structured **README.md** file for your **Node.js 101** repository. It includes installation instructions, usage examples, and contribution guidelines.
+Structured **README.md** file for your **Node.js 101** repository. Includes installation instructions, usage examples, and contribution guidelines.
 
 ```markdown
 # Node.js 101
